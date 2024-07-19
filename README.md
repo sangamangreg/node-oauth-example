@@ -1,8 +1,10 @@
 # Node.js OAuth example
 
+To understand what OAuth 2.0 and it's benefits please refer https://bit.ly/3LtdP78
+
 This is a small application to demonstrate Login with Github functionality using node js. 
 
-In order to run the application:
+To run the application:
 
 1. Create a Guthub application using URL: https://github.com/settings/applications/new
 
